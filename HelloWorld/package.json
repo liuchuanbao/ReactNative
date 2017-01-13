@@ -18,5 +18,11 @@
 	},
 	"jest": {
 		"preset": "react-native"
+	},
+	"babel": {
+		"presets": [
+			"es2015",
+			"react"
+		]
 	}
 }
